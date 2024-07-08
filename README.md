@@ -1,2 +1,2 @@
 # Diameter
-Fiji (ImageJ) macros used to measure diameters 
+Fiji (ImageJ) macros used to measure diameters.
